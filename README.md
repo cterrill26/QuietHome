@@ -22,7 +22,7 @@ The QuietHome device was built using an ESP32 WIFI enabled microcontroller, RGB 
 ![no_lid](https://github.com/cterrill26/QuietHome/blob/main/images/no_lid.jpg) 
 
 ## Challenges we ran into
-The PDM microphone was a pain to get working. Fortunately, after much Googling and reading example code on GitHub, we were finally about to get it operating well enough to detect loud noises. Unfortunately, reading from the Firebase Realtime Database and reading from the microphone did not mesh well together, and doing both caused many nondeterministic errors that were only solved once we added delays between the two. Furthermore, the Android app was a challenge to design due to the complexity of the Android Studio IDE. 
+The PDM microphone was a pain to get working. Fortunately, after much Googling and reading example code on GitHub, we were finally able to get it operating well enough to detect loud noises. Unfortunately, reading from the Firebase Realtime Database and reading from the microphone did not mesh well together, and doing both caused many nondeterministic errors that were only solved once we added delays between the two. Furthermore, the Android app was a challenge to design due to the complexity of the Android Studio IDE. 
 
 ## Accomplishments that we're proud of
 Being able to seamlessly integrate challenging hardware and software features into a single operational product was our goal coming into this hackathon. We were able to add almost all the functionalities we had hoped for, so we are extremely happy about that. Furthermore, being able to overcome the difficulties of working in a remote Hackathon and work together to create a finished final product is something we are very proud of.
