@@ -1,3 +1,5 @@
+# QuietHome
+### With work and school largely taking place from home these days, QuietHome provides a simple process for getting your housemates to keep the noise down when you need a bit of peace and quiet.
 ## [Slides](https://docs.google.com/presentation/d/1uh7VLC4YgWx4uvmSAtE6865kep9te8QwTm802IIq6F0/edit?usp=sharing) | [Devpost](https://devpost.com/software/quiethome)
 
 ## Inspiration
